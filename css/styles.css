@@ -52,26 +52,26 @@ h5 {
     letter-spacing: 3px;
 }
 .col-md-12 {
-  position: relative;
-  top: 90px;
+position: relative;
+top: 90px;
 }
 
 html,
 body,
 .view {
-  height: 100%;
+height: 100%;
 }
 
 @media (max-width: 740px) {
     html,
     body,
     .view {
-      height: 100vh;
+    height: 100vh;
     }
 }
 
 @media (max-width: 991px) {
     .navbar:not(.top-nav-collapse) {
-      background: #78909c !important;
+    background: #78909c !important;
     }
-  }
+}
