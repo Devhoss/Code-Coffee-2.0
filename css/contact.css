@@ -92,3 +92,8 @@ ul {
     background-color: gray;
     box-shadow: 0 0 16px lightgray;
 }
+@media (max-width: 991px) {
+    .navbar:not(.top-nav-collapse) {
+    background: #78909c !important;
+    }
+}
