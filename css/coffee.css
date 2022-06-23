@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: linear-gradient(
+  45deg,
+  hsl(183deg 47% 81%) 0%,
+  hsl(183deg 33% 80%) 2%,
+  hsl(185deg 21% 78%) 5%,
+  hsl(189deg 9% 77%) 10%,
+  hsl(323deg 2% 75%) 18%,
+  hsl(354deg 11% 73%) 29%,
+  hsl(357deg 19% 71%) 45%,
+  hsl(358deg 27% 69%) 62%,
+  hsl(359deg 34% 67%) 76%,
+  hsl(359deg 41% 64%) 86%,
+  hsl(360deg 47% 61%) 93%,
+  hsl(360deg 53% 58%) 97%,
+  hsl(0deg 59% 53%) 100%
+);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+main {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+
+}
+.col-md-12 h1 {
+    font-size: 6em;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    letter-spacing: 1.5px;
+}
+/* Photo by Rod Long on Unsplash */
+img {
+    width: 100%;
+}
+.col-md-8 a {
+    text-decoration: none;
+    color: rgb(224, 10, 178);
+}
